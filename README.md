@@ -5,6 +5,7 @@ Originally forked from: https://github.com/9l/vyos-build-action
 Automate build VyOS
 
 Add a new tag v1.2.x - to build vyos crux 1.2.x
+
 Add a new tag v1.3.x - to build vyos equuleus 1.3.x 
 
 # About this repository
